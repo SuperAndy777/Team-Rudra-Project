@@ -1,11 +1,13 @@
 //Steps to get the output
   - Enter the number of digits in the variable N
+ 
 //Dependencies/Virtual-Environments/Environment-Variables
   - Install Erlang
   - https://www.erlang.org/downloads
   - Make sure you added it to path
   - Refer this video from 6:04 for the same: https://www.youtube.com/watch?v=SyIRB_DaIjg&t=364s
   - Install Eclipse and Java, refer the same video
+ 
 //Approach
   - Looking at the question I knew that it was the digits of Pi after the decimal
   - So I first Installed erlang, learned how to get it work
