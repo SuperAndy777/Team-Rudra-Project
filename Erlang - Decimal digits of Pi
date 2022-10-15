@@ -5,6 +5,6 @@ pi(T,M,D) ->
     N = %Enter the number of digits you want after decimal to be appeared
     A = 1 / D,
     if 
-        A > 0.1*N -> pi(T+(M*A), M*-1, D+2);
+        A > 0.1*N -> (pi(T+(M*A), M*-1, D+2) - 3) 10**N;
         true -> T 
     end.
