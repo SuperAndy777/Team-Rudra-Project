@@ -11,7 +11,7 @@
 //Approach
   - Looking at the question I knew that it was the digits of Pi after the decimal
   - So I first Installed erlang, learned how to get it work
-  - The I found that Pi can be written as 4*(1 - 1/3 + 1/5 - 1/7.....)
+  - Then I found that Pi can be written as 4*(1 - 1/3 + 1/5 - 1/7.....)
   - To get the number of digits I wanted I took another variable N and multiplied it as 0.1*N 
   - For showing only the digits after decimal, subtracted three from the value of Pi 
   - Then multiplied it with 10 raised to power N so that the decimal can be eliminated
